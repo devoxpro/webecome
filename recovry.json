@@ -1,0 +1,23 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "admob",
+        "InterAd": "amdob",
+        "NativeAd": "admob",
+        "admob_banner": "ca-app-pub-9575190311838304/2093807532",
+        "admob_inter": "ca-app-pub-9575190311838304/9530865303",
+        "admob_native": "ca-app-pub-9575190311838304/6904701962",
+		"admob_openad": "",
+        "facebook_banner": "",
+        "facebook_inter": "",
+        "facebook_native": "",
+        "max_banner": "",
+        "max_inter": "",
+        "max_native": "",
+        "intersitial_click_activites": 3,
+        "intersitial_click_list": 3
+    
+    }
+}
+
+
