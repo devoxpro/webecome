@@ -1,8 +1,8 @@
 
 
 {
-    "a": "4875044"
-    "b": "Banner_Android"
-    "c": "Interstitial_Android"
-    "d": "Rewarded_Android"
-}  
+    "a": "unity_id",
+    "b": "admob_banner_id",
+    "c": "admob_interstitial_id",
+    "d": "admob_rewarded_video_id"
+}
