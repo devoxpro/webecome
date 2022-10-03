@@ -1,0 +1,24 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "admob_banner": "ca-app-pub-2440723889019008/7220229166",
+        "admob_inter": "ca-app-pub-2440723889019008/7220229178",
+        "facebook_banner": "",
+        "facebook_inter": "",
+		"unityTest": false,
+        "unityGameID": "4953473",
+		"unityBanner": "Banner_Android",
+		"unityInter": "Interstitial_Android",
+        "max_banner": "",
+        "max_inter": "",
+        "CPAImg": "https://i.ibb.co/qDx36w7/ps5.gif",
+        "CPAUrl": "https://avantofiles.com/show.php?l=0&u=655865&id=45096&tracking_id=",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 3,
+		"more_app": "",
+		"privacy": "https://sites.google.com/view/elastic-man/home",
+		"rate_us": "https://play.google.com/store/apps/details?id=com.elasticman.facesimulator"
+    }
+}
