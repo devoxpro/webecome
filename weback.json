@@ -1,9 +1,9 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "cpa",
+        "bannerAd": "admob",
         "InterAd": "admob",
-        "admob_banner":"ca-app-pub-11244072388900000/7220229166",
+        "admob_banner":"",
         "admob_inter": "ca-app-pub-11244072388900000/7220229178",
         "facebook_banner": "",
         "facebook_inter": "",
