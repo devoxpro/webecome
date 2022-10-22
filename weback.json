@@ -7,7 +7,7 @@
         "admob_inter": "",
         "facebook_banner": "792451981870918_792453501870766",
         "facebook_inter": "792451981870918_800894001026716",
-		"unityTest": true,
+		"unityTest": false,
         "unityGameID": "4953473",
 		"unityBanner": "Banner_Android",
 		"unityInter": "Interstitial_Android",
